@@ -22,7 +22,6 @@ I'm a beginner programmer learning python, lua and c++. In my free time, I custo
 [![Static Badge](https://img.shields.io/badge/Linux-191724?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Static Badge](https://img.shields.io/badge/git-191724?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Static Badge](https://img.shields.io/badge/html-191724?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
-[![Static Badge](https://img.shields.io/badge/flat-191724?style=for-the-badge&logo=flat)](https://flet.dev/)
 
 #### Social and Contacts:
 [![Static Badge](https://img.shields.io/badge/telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/ReStranger)

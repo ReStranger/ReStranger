@@ -8,6 +8,7 @@ I'm a beginner programmer learning python, lua and c++. In my free time, I custo
 
 #### About my system:
 [![Static Badge](https://img.shields.io/badge/ArchLinux-191724?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
+[![Static Badge](https://img.shields.io/badge/Gentoo-191724?style=for-the-badge&logo=gentoo)](https://www.gentoo.org/)
 [![Static Badge](https://img.shields.io/badge/VoidLinux-191724?style=for-the-badge&logo=voidlinux)](https://voidlinux.org/)
 [![Static Badge](https://img.shields.io/badge/bspwm-191724?style=for-the-badge&logo=bspwm)](https://github.com/baskerville/bspwm)
 [![Static Badge](https://img.shields.io/badge/dwm-191724?style=for-the-badge&logo=dwm)](https://dwm.suckless.org/)

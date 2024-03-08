@@ -4,7 +4,7 @@
 
 # <p align="center">ReStranger</p>
 ## About me
-I'm a beginner programmer learning python, lua and c++. In my free time, I customize and design the system. Here you will find my projects and dotfiles
+I'm a beginner programmer learning python, lua and rust. In my free time, I customize and design the system. Here you will find my projects and dotfiles
 
 #### About my system:
 [![Static Badge](https://img.shields.io/badge/ArchLinux-191724?style=for-the-badge&logo=archlinux)](https://archlinux.org/)

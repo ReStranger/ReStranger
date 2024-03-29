@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="./assets/img/back.jpg" alt="BackGroung IMG"/>
+  <img class="main_img" src="./assets/img/image.png" alt="BackGroung IMG"/>
 </p>
 
-# <p align="center">ReStranger</p>
+# <h1 align="center">ReStranger</h1>
+<hr class="title_hr">
+
 ## About me
 I'm a beginner programmer learning python, lua and rust. In my free time, I customize and design the system. Here you will find my projects and dotfiles
 
@@ -28,3 +30,24 @@ I'm a beginner programmer learning python, lua and rust. In my free time, I cust
 [![Static Badge](https://img.shields.io/badge/telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/ReStranger)
 [![Static Badge](https://img.shields.io/badge/discord-191724?style=for-the-badge&logo=discord)](https://discord.gg/DQkj2xNZ)
 [![Static Badge](https://img.shields.io/badge/reddit-191724?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/ReStrangeR_GG)
+
+<style>
+.main_img {
+    display:block;
+  width: 100%;
+  height: 50%;
+  max-width: 800px;
+  margin: 0px auto -80px auto;
+  -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+  opacity: 0.7;
+  z-index: -1;
+}
+.title_hr {
+  margin: 0px;
+  margin-block: 0px;
+  border: none;
+  border-top: 2px solid;
+  border-color: rgb(49, 50, 68);
+}
+</style>

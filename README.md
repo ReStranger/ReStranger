@@ -10,9 +10,9 @@ I'm a beginner programmer learning python, lua and rust. In my free time, I cust
 
 #### About my system:
 
+[![Static Badge](https://img.shields.io/badge/NixOS-191724?style=for-the-badge&logo=nixos)](https://nixos.org/)
 [![Static Badge](https://img.shields.io/badge/ArchLinux-191724?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
 [![Static Badge](https://img.shields.io/badge/Gentoo-191724?style=for-the-badge&logo=gentoo)](https://www.gentoo.org/)
-[![Static Badge](https://img.shields.io/badge/VoidLinux-191724?style=for-the-badge&logo=voidlinux)](https://voidlinux.org/)
 [![Static Badge](https://img.shields.io/badge/hyprland-191724?style=for-the-badge&logo=hyper)](https://hyprland.org/)
 [![Static Badge](https://img.shields.io/badge/dwm-191724?style=for-the-badge&logo=dwm)](https://github.com/baskerville/bspwm)
 [![Static Badge](https://img.shields.io/badge/NeoVim-191724?style=for-the-badge&logo=neovim)](https://neovim.io/)
@@ -24,6 +24,7 @@ I'm a beginner programmer learning python, lua and rust. In my free time, I cust
 [![Static Badge](https://img.shields.io/badge/Bash-191724?style=for-the-badge&logo=gnubash)](https://www.gnu.org/software/bash/)
 
 #### In the process of studying:
+
 [![Static Badge](https://img.shields.io/badge/C-191724?style=for-the-badge&logo=C)](https://www.iso.org/standard/74528.html)
 [![Static Badge](https://img.shields.io/badge/C++-191724?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Static Badge](https://img.shields.io/badge/rust-191724?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
